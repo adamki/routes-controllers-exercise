@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20150909232625_add_boolean_default_to_student.rb
